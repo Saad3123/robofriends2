@@ -1,3 +1,10 @@
+// Comments:
+// stuff that have multiple exports such as card
+// list needs to be destructured before using 
+// import {robots} from ""./robots";
+
+
+
 import React from 'react';
 // import ReactDOM from 'react-dom'; The new way to import createRoot:
 import { createRoot } from "react-dom/client";
